@@ -5,8 +5,8 @@ FCFS: Ba Nguyen
 
 SSTF: Ormar Jimenez
 
-SCAN: Albert Cedeno
+SCAN: Albert Cedeno, Asifa Khan
 
-Driver program and request generating functions: Asifa Khan, Andy Estevez
+Driver program and request generating functions: Andy Estevez
 
 -----------
