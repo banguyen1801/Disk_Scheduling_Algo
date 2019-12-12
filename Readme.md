@@ -1,7 +1,7 @@
 Operating System Group Project
 
 -----------
-FCFS: Ba Nguyen
+FCFS: Ba Nguyen, Andy Estevez
 
 SSTF: Ormar Jimenez
 
