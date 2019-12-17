@@ -1,6 +1,8 @@
 import java.util.*;
 import java.io.*;
 
+// Author Albert Cedeno and Asifa Khan
+
 public class ScanAlgorithm
 {
     
